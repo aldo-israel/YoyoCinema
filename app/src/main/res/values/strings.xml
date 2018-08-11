@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Yoyo Cinema</string>
+    <string name="title_activity_main">Yoyo Cinema</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorites">Favorites</string>
+
+    <string name="all_overview">Overview</string>
+    <string name="all_companies">Companies</string>
+    <string name="all_genres">Genres</string>
+    <string name="all_release_date">Release date</string>
+    <string name="all_vote_average">Average</string>
+
+    <string name="movie_favorite_saved">Saved to favorites</string>
+    <string name="movie_favorite_removed">Removed from favorites</string>
+
+    <string name="search_here">Search here</string>
+</resources>
